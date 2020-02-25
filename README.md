@@ -9,4 +9,4 @@ EEE42103-2020 Earth Fault Project. This Project is part of Analog Electronics Co
     - Operating Temperature 0 - 60 degree centegrade. 
     - IP54
     - Indicators for the state of operation.
-![IEC 60479-1 Electric Safety Zones](C:/Users/ashra/Pictures/Electric%20Safety.png)
+![IEC 60479-1 Electric Safety Zones](https://github.com/ashrafmalraheem/Earth_Fault_Detect/blob/master/Electric%20Safety.png)
